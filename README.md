@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/kushagramodanwal/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0368-largest-divisible-subset](https://github.com/kushagramodanwal/leetcode/tree/master/0368-largest-divisible-subset) |
 | [1463-cherry-pickup-ii](https://github.com/kushagramodanwal/leetcode/tree/master/1463-cherry-pickup-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/kushagramodanwal/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0368-largest-divisible-subset](https://github.com/kushagramodanwal/leetcode/tree/master/0368-largest-divisible-subset) |
 | [1463-cherry-pickup-ii](https://github.com/kushagramodanwal/leetcode/tree/master/1463-cherry-pickup-ii) |
 ## Matrix
 |  |
@@ -36,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/kushagramodanwal/leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Math
+|  |
+| ------- |
+| [0368-largest-divisible-subset](https://github.com/kushagramodanwal/leetcode/tree/master/0368-largest-divisible-subset) |
+## Sorting
+|  |
+| ------- |
+| [0368-largest-divisible-subset](https://github.com/kushagramodanwal/leetcode/tree/master/0368-largest-divisible-subset) |
 <!---LeetCode Topics End-->
