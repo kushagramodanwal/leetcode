@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/kushagramodanwal/leetcode/tree/master/0368-largest-divisible-subset) |
+| [1922-count-good-numbers](https://github.com/kushagramodanwal/leetcode/tree/master/1922-count-good-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kushagramodanwal/leetcode/tree/master/0078-subsets) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/kushagramodanwal/leetcode/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
