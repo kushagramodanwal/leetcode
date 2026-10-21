@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0784-letter-case-permutation](https://github.com/kushagramodanwal/leetcode/tree/master/0784-letter-case-permutation) |
 | [1021-remove-outermost-parentheses](https://github.com/kushagramodanwal/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/kushagramodanwal/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
@@ -52,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kushagramodanwal/leetcode/tree/master/0078-subsets) |
+| [0784-letter-case-permutation](https://github.com/kushagramodanwal/leetcode/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kushagramodanwal/leetcode/tree/master/0078-subsets) |
+| [0784-letter-case-permutation](https://github.com/kushagramodanwal/leetcode/tree/master/0784-letter-case-permutation) |
 ## Recursion
 |  |
 | ------- |
