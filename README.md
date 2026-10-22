@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kushagramodanwal/leetcode/tree/master/0078-subsets) |
 | [0300-longest-increasing-subsequence](https://github.com/kushagramodanwal/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/kushagramodanwal/leetcode/tree/master/0368-largest-divisible-subset) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kushagramodanwal/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1463-cherry-pickup-ii](https://github.com/kushagramodanwal/leetcode/tree/master/1463-cherry-pickup-ii) |
 ## Dynamic Programming
 |  |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/kushagramodanwal/leetcode/tree/master/0044-wildcard-matching) |
+## Sliding Window
+|  |
+| ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kushagramodanwal/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
