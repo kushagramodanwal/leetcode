@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/kushagramodanwal/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/kushagramodanwal/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0692-top-k-frequent-words](https://github.com/kushagramodanwal/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kushagramodanwal/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/kushagramodanwal/leetcode/tree/master/0860-lemonade-change) |
 | [1052-grumpy-bookstore-owner](https://github.com/kushagramodanwal/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kushagramodanwal/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kushagramodanwal/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/kushagramodanwal/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/kushagramodanwal/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kushagramodanwal/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1463-cherry-pickup-ii](https://github.com/kushagramodanwal/leetcode/tree/master/1463-cherry-pickup-ii) |
 ## Matrix
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/kushagramodanwal/leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kushagramodanwal/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kushagramodanwal/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/kushagramodanwal/leetcode/tree/master/0860-lemonade-change) |
 ## Sliding Window
 |  |
