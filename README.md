@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/kushagramodanwal/leetcode/tree/master/0085-maximal-rectangle) |
 | [1021-remove-outermost-parentheses](https://github.com/kushagramodanwal/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/kushagramodanwal/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/kushagramodanwal/leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kushagramodanwal/leetcode/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/kushagramodanwal/leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushagramodanwal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kushagramodanwal/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kushagramodanwal/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/kushagramodanwal/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/kushagramodanwal/leetcode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/kushagramodanwal/leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushagramodanwal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kushagramodanwal/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kushagramodanwal/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/kushagramodanwal/leetcode/tree/master/0085-maximal-rectangle) |
 | [1463-cherry-pickup-ii](https://github.com/kushagramodanwal/leetcode/tree/master/1463-cherry-pickup-ii) |
 ## Binary Search
 |  |
@@ -210,5 +214,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/kushagramodanwal/leetcode/tree/master/0085-maximal-rectangle) |
 | [2104-sum-of-subarray-ranges](https://github.com/kushagramodanwal/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
