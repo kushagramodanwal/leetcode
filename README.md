@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kushagramodanwal/leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/kushagramodanwal/leetcode/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/kushagramodanwal/leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushagramodanwal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/kushagramodanwal/leetcode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/kushagramodanwal/leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/kushagramodanwal/leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/kushagramodanwal/leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushagramodanwal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/kushagramodanwal/leetcode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/kushagramodanwal/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kushagramodanwal/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kushagramodanwal/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/kushagramodanwal/leetcode/tree/master/0860-lemonade-change) |
