@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/kushagramodanwal/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kushagramodanwal/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/kushagramodanwal/leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kushagramodanwal/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kushagramodanwal/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kushagramodanwal/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/kushagramodanwal/leetcode/tree/master/1922-count-good-numbers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kushagramodanwal/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
 | ------- |
