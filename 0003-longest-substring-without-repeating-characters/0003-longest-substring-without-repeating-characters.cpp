@@ -18,7 +18,7 @@ public:
                     freq.erase(s[low]);
                 }
                 low++;
-                k = high - low + 1;
+                k--;
             }
             if (freq.size() == k) {
 
