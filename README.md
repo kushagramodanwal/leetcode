@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/kushagramodanwal/leetcode/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kushagramodanwal/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2000-reverse-prefix-of-word](https://github.com/kushagramodanwal/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/kushagramodanwal/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kushagramodanwal/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/kushagramodanwal/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
