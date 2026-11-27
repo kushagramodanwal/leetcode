@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kushagramodanwal/leetcode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/kushagramodanwal/leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/kushagramodanwal/leetcode/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/kushagramodanwal/leetcode/tree/master/0085-maximal-rectangle) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kushagramodanwal/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kushagramodanwal/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/kushagramodanwal/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/kushagramodanwal/leetcode/tree/master/0424-longest-repeating-character-replacement) |
